@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textTime" format="string"/>
+    <attr name="time" format="integer"/>
+    <attr name="timeColor" format="color"/>
+    <declare-styleable name="YzmView">
+        <attr name="textTime"/>
+        <attr name="time"/>
+        <attr name="timeColor"/>
+    </declare-styleable>
+</resources>
